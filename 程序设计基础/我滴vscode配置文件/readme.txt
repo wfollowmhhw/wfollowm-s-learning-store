@@ -1,0 +1,2 @@
+这个文件是基于windows系统的配置，其它系统滴小伙伴需要改改gdb路径的
+and不要忘记windows奇葩的path配置
